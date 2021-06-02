@@ -1,0 +1,36 @@
+[submodule "questions-ai"]
+	path = questions-ai
+	url = https://github.com/Maslor/questions-ai
+[submodule "parser-ai"]
+	path = parser-ai
+	url = https://github.com/Maslor/parser-ai
+[submodule "crossword"]
+	path = crossword
+	url = https://github.com/Maslor/crossword
+[submodule "traffic-ai"]
+	path = traffic-ai
+	url = https://github.com/Maslor/traffic-ai
+[submodule "nim-ai"]
+	path = nim-ai
+	url = https://github.com/Maslor/nim-ai
+[submodule "shopping-ai"]
+	path = shopping-ai
+	url = https://github.com/Maslor/shopping-ai
+[submodule "heredity"]
+	path = heredity
+	url = https://github.com/Maslor/heredity
+[submodule "pagerank"]
+	path = pagerank
+	url = https://github.com/Maslor/pagerank
+[submodule "tictactoe-minimax"]
+	path = tictactoe-minimax
+	url = https://github.com/Maslor/tictactoe-minimax
+[submodule "minesweeper"]
+	path = minesweeper
+	url = https://github.com/Maslor/minesweeper
+[submodule "knight-or-knave"]
+	path = knight-or-knave
+	url = https://github.com/Maslor/knight-or-knave
+[submodule "degrees"]
+	path = degrees
+	url = https://github.com/Maslor/degrees
